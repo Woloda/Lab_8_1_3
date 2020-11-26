@@ -1,0 +1,6 @@
+﻿  UnitTest(Lab_8.1(3)).cpp
+E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_8.1(3)\UnitTest(Lab_8.1(3))\UnitTest(Lab_8.1(3)).cpp(1): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_8.1(3)\UnitTest(Lab_8.1(3))\UnitTest(Lab_8.1(3)).cpp(1): message : Add macro to precompiled header instead of defining here
+E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_8.1(3)\UnitTest(Lab_8.1(3))\UnitTest(Lab_8.1(3)).cpp(2): message : use of precompiled header
+     Creating library E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_8.1(3)\Debug\UnitTest(Lab_8.1(3)).lib and object E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_8.1(3)\Debug\UnitTest(Lab_8.1(3)).exp
+  UnitTest(Lab_8.1(3)).vcxproj -> E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_8.1(3)\Debug\UnitTest(Lab_8.1(3)).dll
